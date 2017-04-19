@@ -1,6 +1,7 @@
-/*body{
-  background: #2134dc;
-}*/
+body {
+  font-family: 'Pacifico', cursive;
+}
+
 nav{
   margin-top: 0;
   background: #F9A91A;
@@ -9,7 +10,7 @@ nav{
 
 h3{
   position: fixed;
-  margin: 20px;
+  margin: 10px;
   font-size: 40px;
 }
 
@@ -33,13 +34,13 @@ img {
 .nombre{
   position: relative;
   margin-left: 150px;
-  margin-top: -100px;
+  margin-top: -120px;
   color: white;
 }
 
 .apellido{
   position: relative;
   margin-left: 210px;
-  margin-top: -34px;
+  margin-top: -44px;
   color: white;
 }
