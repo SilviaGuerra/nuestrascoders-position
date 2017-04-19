@@ -1,15 +1,22 @@
-body{
+/*body{
   background: #2134dc;
+}*/
+nav{
+  margin-top: 0;
+  background: #F9A91A;
+  height: 80px;
 }
 
 h3{
-  font-size: 30px;
+  position: fixed;
+  margin: 20px;
+  font-size: 40px;
 }
 
 section{
   position: absolute;
   margin-left: 80px;
-  margin-top: -20px;
+  margin-top: 1px;
 }
 
 div{
@@ -19,15 +26,20 @@ div{
 img {
   width: 200px;
   height: 200px;
-  margin: 40px;
+  margin: 80px;
   position: relative;
-
 }
 
-.datos{
+.nombre{
+  position: relative;
   margin-left: 150px;
-  position: absolute;
-  margin-left: 150px;
-  margin-top: -50px;
+  margin-top: -100px;
+  color: white;
+}
+
+.apellido{
+  position: relative;
+  margin-left: 210px;
+  margin-top: -34px;
   color: white;
 }
