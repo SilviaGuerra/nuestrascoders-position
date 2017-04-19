@@ -1,0 +1,33 @@
+body{
+  background: #2134dc;
+}
+
+h3{
+  font-size: 30px;
+}
+
+section{
+  position: absolute;
+  margin-left: 80px;
+  margin-top: -20px;
+}
+
+div{
+  display: inline-block;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  margin: 40px;
+  position: relative;
+
+}
+
+.datos{
+  margin-left: 150px;
+  position: absolute;
+  margin-left: 150px;
+  margin-top: -50px;
+  color: white;
+}
